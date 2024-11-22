@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eB7cWplkBVo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\obedj\\Downloads\\Progra II\\Practicas_C#\\OtroVisual\\WinFormsTabla\\WinFormsTabla\\WinFormsTabla.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\obedj\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\obedj\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\obedj\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\obedj\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

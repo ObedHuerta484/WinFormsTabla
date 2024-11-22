@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\obedj\\Downloads\\Progra II\\Practicas_C#\\OtroVisual\\WinFormsTabla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D38F4D58-417D-42F7-8A4D-910D12283989}|WinFormsTabla\\WinFormsTabla.csproj|c:\\users\\obedj\\downloads\\progra ii\\practicas_c#\\otrovisual\\winformstabla\\winformstabla\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D38F4D58-417D-42F7-8A4D-910D12283989}|WinFormsTabla\\WinFormsTabla.csproj|solutionrelative:winformstabla\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38F4D58-417D-42F7-8A4D-910D12283989}|WinFormsTabla\\WinFormsTabla.csproj|c:\\users\\obedj\\downloads\\progra ii\\practicas_c#\\otrovisual\\winformstabla\\winformstabla\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38F4D58-417D-42F7-8A4D-910D12283989}|WinFormsTabla\\WinFormsTabla.csproj|solutionrelative:winformstabla\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\obedj\\Downloads\\Progra II\\Practicas_C#\\OtroVisual\\WinFormsTabla\\WinFormsTabla\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsTabla\\Form1.cs",
+              "ToolTip": "C:\\Users\\obedj\\Downloads\\Progra II\\Practicas_C#\\OtroVisual\\WinFormsTabla\\WinFormsTabla\\Form1.cs",
+              "RelativeToolTip": "WinFormsTabla\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA+wCIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:20:10.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\obedj\\Downloads\\Progra II\\Practicas_C#\\OtroVisual\\WinFormsTabla\\WinFormsTabla\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsTabla\\Form1.cs",
+              "ToolTip": "C:\\Users\\obedj\\Downloads\\Progra II\\Practicas_C#\\OtroVisual\\WinFormsTabla\\WinFormsTabla\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormsTabla\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:08:28.549Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
